@@ -15,7 +15,7 @@
 	$mensagem=$_POST["comentario"];
 
 	$conteudo = "Nome: $nome <br>E-mail: $email<br> Assunto: $assunto <br> Mensagem: $mensagem";
-	$seuemail="lu_ventura@colegioapogeu.g12,br";
+	$seuemail="matheusfreire.lf3@gmail.com";
 	$headers="MIME-Version: 1.0\r\n";
 	$headers="Content-type: text/html; charset=iso-8859-1\r\n";
 	$headers="From: $email\r\n";
@@ -24,7 +24,7 @@
 	$enviar= mail($seuemail, $assunto, $conteudo, $headers);
 
 	if($enviar){
-		echo"<script type='text/javascript'> alert('Contato Enviado com Sucesso!'); window.location.href='contato.html';
+		echo"<script type='text/javascript'> alert('Contato Enviado com Sucesso!'); window.location.href='index.php?modulo=68';
 		</script>";}
 	else
 		{

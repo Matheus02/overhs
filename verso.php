@@ -191,7 +191,7 @@ por pessoas que moram fora dos Estados Unidos e Canadá.</p>
 <div class="modal fade bs-example-modal-sm13" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
   <div class="modal-dialog modal-sm">
     <div class="modal-content">
-      <img class="img-responsive center-block" src="card12.png" alt="" width="600">
+      <img class="img-responsive center-block" src="card12.jpg" alt="" width="600">
     </div>
   </div>
 </div>
@@ -204,24 +204,176 @@ sinto muito, mas eles não estão mais disponíveis.</p>
 
 
 <div class="row">
-	<img class="img-responsive ali" src="card15.png" alt="" width="175">
-	<img class="img-responsive ali" src="card16.png" alt="" width="175">
-	<img class="img-responsive ali" src="card17.png" alt="" width="175">
-	<img class="img-responsive ali" src="card18.png" alt="" width="175">
-	<img class="img-responsive ali" src="card19.png" alt="" width="175">
-	<img class="img-responsive ali" src="card20.png" alt="" width="175">
-	<img class="img-responsive ali" src="card21.png" alt="" width="175">
-	<img class="img-responsive ali" src="card22.png" alt="" width="175">
-	<img class="img-responsive ali" src="card23.png" alt="" width="175">
-	<img class="img-responsive ali" src="card24.png" alt="" width="175">
-	<img class="img-responsive ali" src="card25.png" alt="" width="175">
-	<img class="img-responsive ali" src="card26.png" alt="" width="175">
-	<img class="img-responsive ali" src="card27.png" alt="" width="175">
-	<img class="img-responsive ali" src="card28.png" alt="" width="175">
-	<img class="img-responsive ali" src="card29.png" alt="" width="175">
-	<img class="img-responsive ali" src="card30.png" alt="" width="175">
-	<img class="img-responsive ali" src="card31.png" alt="" width="175">
-	<img class="img-responsive ali" src="card32.png" alt="" width="175">
-	<img class="img-responsive ali" src="card33.png" alt="" width="175">
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm14" src="card15.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm14" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card15.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm15" src="card16.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm15" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card16.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm16" src="card17.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm16" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card17.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm17" src="card18.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm17" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card18.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm18" src="card19.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm18" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card19.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm19" src="card20.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm19" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card20.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm20" src="card21.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm20" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card21.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm21" src="card22.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm21" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card22.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm22" src="card23.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm22" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card23.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm23" src="card24.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm23" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card24.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm24" src="card25.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm24" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card25.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm25" src="card26.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm25" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card26.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm26" src="card27.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm26" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card27.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm27" src="card28.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm27" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card28.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm28" src="card29.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm28" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card29.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm29" src="card30.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm29" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card30.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm30" src="card31.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm30" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card31.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm31" src="card32.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm31" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card32.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
+	<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm32" src="card33.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm32" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card33.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
 
 </div>

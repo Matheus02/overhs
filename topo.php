@@ -1,0 +1,1 @@
+<img src="cabecalho.png" alt="Responsive image" class="img-responsive">

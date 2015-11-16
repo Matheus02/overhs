@@ -1,0 +1,361 @@
+body{
+	background-image:url(../../../fundo.jpg);
+	background-attachment:fixed;
+	}
+
+header#cabecalho{
+
+	}
+
+.ali{
+	display: inline;
+}
+footer#rodape{
+	height:230PX;
+	background-color:#000;
+	color:#fff;
+	}
+
+footer#rodape a{
+	text-decoration:none;
+}
+
+footer#rodape ul li a{
+	color: #999;
+}
+
+#mapainicio{
+	width:100px;
+	float:left;
+	text-align:center;
+	}
+
+#mapainicio a{
+	color:#FFF;
+	}
+	
+#mapadeck{
+	width:65px;
+	float:left;		
+	text-align:center;		
+	}
+		
+#mapadeck ul li{
+	display:block;
+	margin-left:-38px;
+	text-align:left;
+	}
+
+#mapainfo ul li a{
+	text-decoration:none;
+	}
+		
+#mapainfo ul li{
+	display:block;
+	margin-left:-22px;
+	text-align:left;
+	font-size:15px;
+	}
+#mapainfo{
+	width:159px;
+	float:left;
+	text-align:center;
+	}
+#mapanoticia{
+	width:125px;
+	float:left;
+	text-align:center;
+	}
+	
+#mapanoticia a{
+	color:#FFF;
+	}
+	
+#mapaverso a{
+	color:#FFF;
+	}
+	
+#mapaverso{
+	width:85px;
+	float:left;
+	text-align:center;
+	}
+
+#mapaexpan{
+	width:132px;
+	float:left;
+	text-align:center;	
+	}
+#mapaexpan a{
+	color:#FFF;
+	}
+#mapaaventura{
+	width:115px;
+	float:left;
+	text-align:center;
+		
+	}
+#mapataverna{
+	width:105px;
+	text-align:center;
+	float:left;
+	}
+	#mapataverna a{
+	color:#FFF;
+	}
+	#mapaaventura a{
+	color:#FFF;
+	}
+#mapacontato{
+	width:123px;
+	text-align:center;
+	float:left;
+	}
+	#mapacontato a{
+	color:#FFF;
+	}
+nav#menu{
+	clear:both;
+	background-color:#000;
+	height:44px;
+	}
+nav#menu a{
+	font-family: 'Oswald',sans-serif;
+	font-size: 16px;
+}
+	
+nav#menu ul{
+	padding:0;
+	margin:0;
+	list-style:none;
+	float:left;
+	}
+	
+nav#menu ul li{
+	display:inline;
+	float:left;
+	position:relative;
+	}
+	
+nav#menu ul li a{
+	color:#FFF;
+	background-color:#000;
+	text-decoration:none;
+	display:block;
+	margin: 0;
+	float:left;
+	}
+	
+nav#menu ul li a:hover{
+	background-color: #404040;
+	}
+
+nav#menu ul li ul{
+	display:none;
+	float:none;
+	left:0;
+	position:absolute;
+	top:100%;
+	border:solid 1px #000
+}
+
+nav#menu ul li:hover> ul{
+	display:inline;
+	margin:0;
+	}
+
+nav#menu ul li ul li, 
+nav#menu ul li ul li a{ 
+	text-decoration: none;
+	float: none;
+	background-color:#000; 
+	color:#FFF;
+	font-size: 13px;
+}
+
+nav#menu ul li ul li a:hover{
+ float:none; 
+ background-color:#404040; 
+}
+
+nav#menu ul li ul li{	
+	margin:0;
+	}
+
+
+section#corpo{
+	height: auto;
+	padding: 30px; 
+	background-color: #DBDBEA;
+}
+
+.centro{
+ 	margin: 0 auto;
+}
+
+.centro2{
+	text-align: center;
+}
+
+.container{
+	max-width: 1024px;
+}
+.block{
+	display: block;
+}
+hr{
+	width: 974px;
+	margin-left: 0;
+}
+
+section#corpo a{
+	font-family: "Lucida Sans Typewriter","Lucida Console",monaco,"Bitstream Vera Sans Mono",monospace;
+	text-decoration: none;
+	
+}
+
+
+
+ul li{
+	list-style: none;
+}
+p{
+font-family: "Arial Rounded MT Bold","Helvetica Rounded",Arial,sans-serif;
+	font-size: 14px;
+}
+.mago1{
+	color: #00BCBC;	
+}
+
+.mago a{
+	color: #00BCBC;
+	text-shadow:#4DFFFF 1px 1px 6px, #4DFFFF -1px -1px 6px, #4DFFFF 1px -1px 6px, #000 -1px 1px 6px;
+}
+.mago a:hover{
+	color:#008789;
+	text-shadow:#00B2B2 1px 1px 6px, #00B2B2 -1px -1px 6px, #00B2B2 1px -1px 6px, #000 -1px 1px 6px;
+	
+}
+
+.pala a{
+	color: #CCB400;
+	text-shadow:#F7DEA3 1px 1px 6px, #F7DEA3 -1px -1px 6px, #F7DEA3 1px -1px 6px, #000 -1px 1px 6px;
+}
+.pala a:hover{
+	color:#A58F00;
+	text-shadow:#CEAF00 1px 1px 6px, #CEAF00 -1px -1px 6px, #CEAF00 1px -1px 6px, #000 -1px 1px 6px;
+
+}
+
+.lad a{
+	color: #777777;
+}
+.lad a:hover{
+	color:#4C4C4C;
+}
+
+.dru a{
+	color: #A04E1E;
+	text-shadow:#CC784B 1px 1px 6px, #CC784B -1px -1px 6px, #CC784B 1px -1px 6px, #000 -1px 1px 6px;
+	
+}
+.dru a:hover{
+	color:#5B2B11;
+	text-shadow:#873F19 1px 1px 6px, #873F19 -1px -1px 6px, #873F19 1px -1px 6px, #000 -1px 1px 6px;
+}
+
+.guer a{
+	color: #CC000D;
+	text-shadow:#E5646D 1px 1px 6px, #E5646D -1px -1px 6px, #E5646D 1px -1px 6px, #000 -1px 1px 6px;
+}
+.guer a:hover{
+	color:#7A0008;
+	text-shadow:#BC000C 1px 1px 6px, #BC000C -1px -1px 6px, #BC000C 1px -1px 6px, #000 -1px 1px 6px;
+}
+
+.bru a{
+	color: #7D26CD;
+	text-shadow:#A654F2 1px 1px 6px, #A654F2 -1px -1px 6px, #A654F2 1px -1px 6px, #000 -1px 1px 6px;
+}
+.bru a:hover{
+	color:#551A8B;
+	text-shadow:#7838B7 1px 1px 6px, #7838B7 -1px -1px 6px, #7838B7 1px -1px 6px, #000 -1px 1px 6px;
+}
+
+.hun a{
+	color: #067F00;
+	text-shadow:#09B500 1px 1px 6px, #09B500 -1px -1px 6px, #09B500 1px -1px 6px, #000 -1px 1px 6px;
+}
+.hun a:hover{
+	color:#045100;
+	text-shadow:#057200 1px 1px 6px, #057200 -1px -1px 6px, #057200 1px -1px 6px, #000 -1px 1px 6px;
+}
+
+.cha a{
+	color: #0009BC;
+	text-shadow:#5359CC 1px 1px 6px, #5359CC -1px -1px 6px, #5359CC 1px -1px 6px, #000 -1px 1px 6px;
+}
+.cha a:hover{
+	color:#00045B;
+	text-shadow:#3339AF 1px 1px 6px, #3339AF -1px -1px 6px, #3339AF 1px -1px 6px, #000 -1px 1px 6px;
+}
+
+.sar a{
+	color: #B7B7B7;
+}
+.sar a:hover{
+	color:#919191;
+}
+
+.sar1{
+	color:#B7B7B7;
+}
+
+.cha1{
+	color:#0009BC;
+}
+
+.hun1{
+	color: #067F00;
+}
+
+.bru1{
+	color: #7D26CD;
+}
+
+.guer1{
+	color: #CC000D;
+}
+
+.dru1{
+	color: #A04E1E;
+}
+
+.lad1{
+	color: #777777;
+}
+
+.pala1{
+	color: #CCB400;
+}
+
+h1{
+	font-family: "Franklin Gothic Medium","Franklin Gothic","ITC Franklin Gothic",Arial,sans-serif;
+}
+
+h2{
+	font-family: "Franklin Gothic Medium","Franklin Gothic","ITC Franklin Gothic",Arial,sans-serif;
+}
+
+.preto{
+	text-shadow:#000 1px 1px, #000 -1px -1px, #000 1px -1px, #000 -1px 1px;
+}
+
+.preto1{
+	text-shadow:#000 1px 1px 4px, #000 -1px -1px 4px, #000 1px -1px 4px, #000 -1px 1px 4px;
+}
+
+button{
+background-color: transparent;
+
+}

@@ -249,9 +249,11 @@ font-family: "Arial Rounded MT Bold","Helvetica Rounded",Arial,sans-serif;
 
 .lad a{
 	color: #777777;
+	text-shadow:#AAAAAA 1px 1px 6px, #AAAAAA -1px -1px 6px, #AAAAAA 1px -1px 6px, #000 -1px 1px 6px;
 }
 .lad a:hover{
 	color:#4C4C4C;
+	text-shadow:#7F7F7F 1px 1px 6px, #7F7F7F -1px -1px 6px, #7F7F7F 1px -1px 6px, #000 -1px 1px 6px;
 }
 
 .dru a{
@@ -270,7 +272,7 @@ font-family: "Arial Rounded MT Bold","Helvetica Rounded",Arial,sans-serif;
 }
 .guer a:hover{
 	color:#7A0008;
-	text-shadow:#BC000C 1px 1px 6px, #BC000C -1px -1px 6px, #BC000C 1px -1px 6px, #000 -1px 1px 6px;
+	text-shadow:#CC000F 1px 1px 6px, #CC000F -1px -1px 6px, #CC000F 1px -1px 6px, #000 -1px 1px 6px;
 }
 
 .bru a{
@@ -302,9 +304,12 @@ font-family: "Arial Rounded MT Bold","Helvetica Rounded",Arial,sans-serif;
 
 .sar a{
 	color: #B7B7B7;
+	text-shadow:#EBEBEB 1px 1px 6px, #EBEBEB -1px -1px 6px, #EBEBEB 1px -1px 6px, #000 -1px 1px 6px;
 }
 .sar a:hover{
 	color:#919191;
+	text-shadow:#C7C7C7 1px 1px 6px, #C7C7C7 -1px -1px 6px, #C7C7C7 1px -1px 6px, #000 -1px 1px 6px;
+}
 }
 
 .sar1{

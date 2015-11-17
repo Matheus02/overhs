@@ -12,7 +12,7 @@
 		<p>Olha só que ironia não é mesmo, o Rhonin esta sendo considerado por muitos uma das 10 cartas mais fortes da expansão, e muita gente nem se quer pensou que em um baralho como esse, ao matar o Rhonin, você acaba por dar para o seu oponente uma Ira Vingativacom 1 de dano a mais e custando 3 a menos de mana. Imagina se tiver ainda uma Aprendiz de Feiticeiro na sua mão e  um Ardilante, já imaginaram quanto de dano é isso por apenas 5 manas?</p>
  		</div>
  		<div class="col-md-4 portfolio-item">
-			<img class="img-responsive center-block" src="bar2.png" alt="" width="225>
+			<img class="img-responsive center-block" src="bar2.png" alt="" width="225">
  		</div>
 	</div>
 </div>

@@ -375,5 +375,14 @@ sinto muito, mas eles não estão mais disponíveis.</p>
   </div>
 </div>
 
+<img class="img-responsive ali" data-toggle="modal" data-target=".bs-example-modal-sm33" src="card34.png" alt="" width="175">
+	<div class="modal fade bs-example-modal-sm33" tabindex="1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <img class="img-responsive center-block" src="card34.png" alt="" width="600">
+    </div>
+  </div>
+</div>
+
 
 </div>
